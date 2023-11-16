@@ -7,7 +7,7 @@ This year Google Cloud Study Jams was organized in MNNIT by GDSC from October 3,
 - Generated on 10 November 2023, 00:31:20
 - Generated using [certifai](https://github.com/sanskaromar/certifai)
 
-| Reference Number    | name                  | profile_url                                                                                      |
+| Certificate Number    | name                  | profile_url                                                                                      |
 |:--------------------|:----------------------|:-------------------------------------------------------------------------------------------------|
 | GCSJ23C2-MNNITAx001 | Aadhavan Sharma       | [Link](https://www.cloudskillsboost.google/public_profiles/93d7caab-11bc-4be7-88f4-b518ab67756f) |
 | GCSJ23C2-MNNITAx002 | Abhishek kumar        | [Link](https://www.cloudskillsboost.google/public_profiles/c0c0b033-7982-469d-82d8-ef84969584c6) |
