@@ -1,6 +1,6 @@
 # GGAISJ-24
 
-This year Google GEN AI Study Jams was organized in MNNIT by GDSC from May 1, 2024 to May 28, 2024. We issued certificates to a total of 105 participants who completed the program.
+This year Google GEN AI Study Jams was organized in MNNIT by GDSC from May 1, 2024 to May 28, 2024. We issued certificates to a total of 106 participants who completed the program.
 
 ## Issued Certificates
 
@@ -70,50 +70,51 @@ This year Google GEN AI Study Jams was organized in MNNIT by GDSC from May 1, 20
 | GGAISJ24-MNNITAx059 | Moyush Abhik Borah            | [Link](https://www.cloudskillsboost.google/public_profiles/32677fbe-1aa8-4912-99c8-035b99c80dfe) |
 | GGAISJ24-MNNITAx060 | Mrinal Sharma                 | [Link](https://www.cloudskillsboost.google/public_profiles/baee351f-6819-4756-b601-0f559f2134e8) |
 | GGAISJ24-MNNITAx061 | Mukund Bihari Gupta           | [Link](https://www.cloudskillsboost.google/public_profiles/3dd584f1-37ab-48ea-a503-2cbcb85cd078) |
-| GGAISJ24-MNNITAx062 | Nihal Yadav                   | [Link](https://www.cloudskillsboost.google/public_profiles/3c91f667-eef3-466f-87ea-67c01d845645) |
-| GGAISJ24-MNNITAx063 | Piyush Mishra                 | [Link](https://www.cloudskillsboost.google/public_profiles/a13540e3-0f45-4cf0-8043-4b7bbc7ef7cf) |
-| GGAISJ24-MNNITAx064 | Prakhar Gupta                 | [Link](https://www.cloudskillsboost.google/public_profiles/966911eb-b745-45ba-afb7-cc67f062c4a8) |
-| GGAISJ24-MNNITAx065 | Rahul Kharwar                 | [Link](https://www.cloudskillsboost.google/public_profiles/ab114849-da63-4834-b324-2f364805b120) |
-| GGAISJ24-MNNITAx066 | Rajarshi Koona                | [Link](https://www.cloudskillsboost.google/public_profiles/f80bebfd-81c7-4c82-a80b-7167ef5b1f75) |
-| GGAISJ24-MNNITAx067 | Rajat Raj                     | [Link](https://www.cloudskillsboost.google/public_profiles/f83ea399-8710-4e43-a949-1160cdb17f8d) |
-| GGAISJ24-MNNITAx068 | Ranjan Kumar                  | [Link](https://www.cloudskillsboost.google/public_profiles/3640c27c-18cd-4b5a-8e64-02e862226ab1) |
-| GGAISJ24-MNNITAx069 | Ravula Hannsika               | [Link](https://www.cloudskillsboost.google/public_profiles/79356339-c950-4c2b-9a82-88bb679f1195) |
-| GGAISJ24-MNNITAx070 | Rishikesh Kumar               | [Link](https://www.cloudskillsboost.google/public_profiles/d0624e59-bd31-4473-b35f-4b52b31a3762) |
-| GGAISJ24-MNNITAx071 | Riya Singh                    | [Link](https://www.cloudskillsboost.google/public_profiles/30c4e290-2a7b-4aeb-8728-d71eb9514d81) |
-| GGAISJ24-MNNITAx072 | Rohan Roy                     | [Link](https://www.cloudskillsboost.google/public_profiles/17aac013-d30e-4e9a-8ffe-de1ee02c7445) |
-| GGAISJ24-MNNITAx073 | Roshan Kumar                  | [Link](https://www.cloudskillsboost.google/public_profiles/d84303de-8e22-4abc-ae75-959605acfe6b) |
-| GGAISJ24-MNNITAx074 | Saachi Pandey                 | [Link](https://www.cloudskillsboost.google/public_profiles/d7a31275-2459-4abc-8944-097c5bf1cac7) |
-| GGAISJ24-MNNITAx075 | Sachin Kumar                  | [Link](https://www.cloudskillsboost.google/public_profiles/97a2c709-3a06-4022-9a40-0123702952d4) |
-| GGAISJ24-MNNITAx076 | Sadiq Ali                     | [Link](https://www.cloudskillsboost.google/public_profiles/8c4df3d5-84a2-44b5-ab9f-ddfee559eb1a) |
-| GGAISJ24-MNNITAx077 | Sahil Gupta                   | [Link](https://www.cloudskillsboost.google/public_profiles/01406bce-a648-457f-bbfc-03d6c84a42e2) |
-| GGAISJ24-MNNITAx078 | Sakshi Kumari Singh           | [Link](https://www.cloudskillsboost.google/public_profiles/af351a8c-2617-4945-be53-96c76e404614) |
-| GGAISJ24-MNNITAx079 | Samarth Prakash               | [Link](https://www.cloudskillsboost.google/public_profiles/d70f2f8c-29f5-4f66-9fbc-17420e6b35f6) |
-| GGAISJ24-MNNITAx080 | SANYA GUPTA                   | [Link](https://www.cloudskillsboost.google/public_profiles/4cb7da6b-ffaa-45f3-96b7-d9e34536175e) |
-| GGAISJ24-MNNITAx081 | Saurav Mishra                 | [Link](https://www.cloudskillsboost.google/public_profiles/dfaaf11e-d2ea-4ecd-a79d-632bf607d469) |
-| GGAISJ24-MNNITAx082 | Shaan Kapoor                  | [Link](https://www.cloudskillsboost.google/public_profiles/dbf56b93-debc-4843-95ab-1e8f38b299ce) |
-| GGAISJ24-MNNITAx083 | Shanu Kumawat                 | [Link](https://www.cloudskillsboost.google/public_profiles/57e66e74-4860-4b5e-9e17-3d93d620500f) |
-| GGAISJ24-MNNITAx084 | Shashi Raj                    | [Link](https://www.cloudskillsboost.google/public_profiles/a77750a2-6724-4157-81c7-afc75312cb31) |
-| GGAISJ24-MNNITAx085 | Shashwat Kapoor               | [Link](https://www.cloudskillsboost.google/public_profiles/03c3a3fb-450e-492f-b091-ae40cd061318) |
-| GGAISJ24-MNNITAx086 | Shivanshu singh               | [Link](https://www.cloudskillsboost.google/public_profiles/e407c504-e0ec-43ca-8517-facab7e8cb59) |
-| GGAISJ24-MNNITAx087 | Shivdutt Tiwari               | [Link](https://www.cloudskillsboost.google/public_profiles/b44facab-b4ed-481b-bdb9-1e624efb904b) |
-| GGAISJ24-MNNITAx088 | Shourya Mishra                | [Link](https://www.cloudskillsboost.google/public_profiles/b0a0b364-9dbf-4ca2-a110-a3ed42a4d425) |
-| GGAISJ24-MNNITAx089 | Shrashti Yadav                | [Link](https://www.cloudskillsboost.google/public_profiles/97093312-191e-4fb3-b867-c1a967addf8f) |
-| GGAISJ24-MNNITAx090 | Shreepriya Tiwari             | [Link](https://www.cloudskillsboost.google/public_profiles/21afe098-9f58-4fd9-8e37-c0a90cd7c50a) |
-| GGAISJ24-MNNITAx091 | Shreyan Das                   | [Link](https://www.cloudskillsboost.google/public_profiles/7c108739-0c63-4a47-9366-8fa9a8620d36) |
-| GGAISJ24-MNNITAx092 | Shreyansh Tiwari              | [Link](https://www.cloudskillsboost.google/public_profiles/f84e16f9-1a33-493d-a239-5414c2a4e3d1) |
-| GGAISJ24-MNNITAx093 | Shrish Raj Gupta              | [Link](https://www.cloudskillsboost.google/public_profiles/8d9a54be-bf81-49cc-aa56-ff9eaae988ab) |
-| GGAISJ24-MNNITAx094 | Shubham Kumar                 | [Link](https://www.cloudskillsboost.google/public_profiles/b5086709-2cbd-466d-8784-a6211ce0282b) |
-| GGAISJ24-MNNITAx095 | Sonali Kharwar                | [Link](https://www.cloudskillsboost.google/public_profiles/d063d3f7-c2d4-4199-891d-64bd7538a5e2) |
-| GGAISJ24-MNNITAx096 | Soumya Das                    | [Link](https://www.cloudskillsboost.google/public_profiles/7e23e5c3-ce39-4ce5-9717-cfde0e10bbbb) |
-| GGAISJ24-MNNITAx097 | Sourajit Mandal               | [Link](https://www.cloudskillsboost.google/public_profiles/15e48cfc-7ca6-4e08-8372-5e0e105c4bd8) |
-| GGAISJ24-MNNITAx098 | Sushmit Patel                 | [Link](https://www.cloudskillsboost.google/public_profiles/e9cba99b-a6b6-4e8e-9941-1d64eacb58cb) |
-| GGAISJ24-MNNITAx099 | Vaibhav Sharma                | [Link](https://www.cloudskillsboost.google/public_profiles/0bc437fb-4e44-4c4a-b49b-1102d2f047d9) |
-| GGAISJ24-MNNITAx100 | Vatsal Kumar                  | [Link](https://www.cloudskillsboost.google/public_profiles/49523273-b33d-4465-9868-95345e85a0b9) |
-| GGAISJ24-MNNITAx101 | Vikas                         | [Link](https://www.cloudskillsboost.google/public_profiles/85f48516-691c-402c-9d77-3dc03c9a73f3) |
-| GGAISJ24-MNNITAx102 | Vinay Joshi                   | [Link](https://www.cloudskillsboost.google/public_profiles/19222efe-71f9-4836-a17b-5716ac25aa5d) |
-| GGAISJ24-MNNITAx103 | Vishal Kumar Sah              | [Link](https://www.cloudskillsboost.google/public_profiles/d1542845-6e71-47fa-ae35-8e95e7ebf50b) |
-| GGAISJ24-MNNITAx104 | Yash Raj                      | [Link](https://www.cloudskillsboost.google/public_profiles/4da03b0b-bd81-44dd-a426-2603b568fb62) |
-| GGAISJ24-MNNITAx105 | Yogesh Jaiswal                | [Link](https://www.cloudskillsboost.google/public_profiles/c32c0df5-e933-4766-9536-6cf8a91078f4) |
+| GGAISJ24-MNNITAx062 | Nandani Jain                  | [Link](https://www.cloudskillsboost.google/public_profiles/8274bcd5-0506-4fc5-8bf0-230b46381592) |
+| GGAISJ24-MNNITAx063 | Nihal Yadav                   | [Link](https://www.cloudskillsboost.google/public_profiles/3c91f667-eef3-466f-87ea-67c01d845645) |
+| GGAISJ24-MNNITAx064 | Piyush Mishra                 | [Link](https://www.cloudskillsboost.google/public_profiles/a13540e3-0f45-4cf0-8043-4b7bbc7ef7cf) |
+| GGAISJ24-MNNITAx065 | Prakhar Gupta                 | [Link](https://www.cloudskillsboost.google/public_profiles/966911eb-b745-45ba-afb7-cc67f062c4a8) |
+| GGAISJ24-MNNITAx066 | Rahul Kharwar                 | [Link](https://www.cloudskillsboost.google/public_profiles/ab114849-da63-4834-b324-2f364805b120) |
+| GGAISJ24-MNNITAx067 | Rajarshi Koona                | [Link](https://www.cloudskillsboost.google/public_profiles/f80bebfd-81c7-4c82-a80b-7167ef5b1f75) |
+| GGAISJ24-MNNITAx068 | Rajat Raj                     | [Link](https://www.cloudskillsboost.google/public_profiles/f83ea399-8710-4e43-a949-1160cdb17f8d) |
+| GGAISJ24-MNNITAx069 | Ranjan Kumar                  | [Link](https://www.cloudskillsboost.google/public_profiles/3640c27c-18cd-4b5a-8e64-02e862226ab1) |
+| GGAISJ24-MNNITAx070 | Ravula Hannsika               | [Link](https://www.cloudskillsboost.google/public_profiles/79356339-c950-4c2b-9a82-88bb679f1195) |
+| GGAISJ24-MNNITAx071 | Rishikesh Kumar               | [Link](https://www.cloudskillsboost.google/public_profiles/d0624e59-bd31-4473-b35f-4b52b31a3762) |
+| GGAISJ24-MNNITAx072 | Riya Singh                    | [Link](https://www.cloudskillsboost.google/public_profiles/30c4e290-2a7b-4aeb-8728-d71eb9514d81) |
+| GGAISJ24-MNNITAx073 | Rohan Roy                     | [Link](https://www.cloudskillsboost.google/public_profiles/17aac013-d30e-4e9a-8ffe-de1ee02c7445) |
+| GGAISJ24-MNNITAx074 | Roshan Kumar                  | [Link](https://www.cloudskillsboost.google/public_profiles/d84303de-8e22-4abc-ae75-959605acfe6b) |
+| GGAISJ24-MNNITAx075 | Saachi Pandey                 | [Link](https://www.cloudskillsboost.google/public_profiles/d7a31275-2459-4abc-8944-097c5bf1cac7) |
+| GGAISJ24-MNNITAx076 | Sachin Kumar                  | [Link](https://www.cloudskillsboost.google/public_profiles/97a2c709-3a06-4022-9a40-0123702952d4) |
+| GGAISJ24-MNNITAx077 | Sadiq Ali                     | [Link](https://www.cloudskillsboost.google/public_profiles/8c4df3d5-84a2-44b5-ab9f-ddfee559eb1a) |
+| GGAISJ24-MNNITAx078 | Sahil Gupta                   | [Link](https://www.cloudskillsboost.google/public_profiles/01406bce-a648-457f-bbfc-03d6c84a42e2) |
+| GGAISJ24-MNNITAx079 | Sakshi Kumari Singh           | [Link](https://www.cloudskillsboost.google/public_profiles/af351a8c-2617-4945-be53-96c76e404614) |
+| GGAISJ24-MNNITAx080 | Samarth Prakash               | [Link](https://www.cloudskillsboost.google/public_profiles/d70f2f8c-29f5-4f66-9fbc-17420e6b35f6) |
+| GGAISJ24-MNNITAx081 | SANYA GUPTA                   | [Link](https://www.cloudskillsboost.google/public_profiles/4cb7da6b-ffaa-45f3-96b7-d9e34536175e) |
+| GGAISJ24-MNNITAx082 | Saurav Mishra                 | [Link](https://www.cloudskillsboost.google/public_profiles/dfaaf11e-d2ea-4ecd-a79d-632bf607d469) |
+| GGAISJ24-MNNITAx083 | Shaan Kapoor                  | [Link](https://www.cloudskillsboost.google/public_profiles/dbf56b93-debc-4843-95ab-1e8f38b299ce) |
+| GGAISJ24-MNNITAx084 | Shanu Kumawat                 | [Link](https://www.cloudskillsboost.google/public_profiles/57e66e74-4860-4b5e-9e17-3d93d620500f) |
+| GGAISJ24-MNNITAx085 | Shashi Raj                    | [Link](https://www.cloudskillsboost.google/public_profiles/a77750a2-6724-4157-81c7-afc75312cb31) |
+| GGAISJ24-MNNITAx086 | Shashwat Kapoor               | [Link](https://www.cloudskillsboost.google/public_profiles/03c3a3fb-450e-492f-b091-ae40cd061318) |
+| GGAISJ24-MNNITAx087 | Shivanshu singh               | [Link](https://www.cloudskillsboost.google/public_profiles/e407c504-e0ec-43ca-8517-facab7e8cb59) |
+| GGAISJ24-MNNITAx088 | Shivdutt Tiwari               | [Link](https://www.cloudskillsboost.google/public_profiles/b44facab-b4ed-481b-bdb9-1e624efb904b) |
+| GGAISJ24-MNNITAx089 | Shourya Mishra                | [Link](https://www.cloudskillsboost.google/public_profiles/b0a0b364-9dbf-4ca2-a110-a3ed42a4d425) |
+| GGAISJ24-MNNITAx090 | Shrashti Yadav                | [Link](https://www.cloudskillsboost.google/public_profiles/97093312-191e-4fb3-b867-c1a967addf8f) |
+| GGAISJ24-MNNITAx091 | Shreepriya Tiwari             | [Link](https://www.cloudskillsboost.google/public_profiles/21afe098-9f58-4fd9-8e37-c0a90cd7c50a) |
+| GGAISJ24-MNNITAx092 | Shreyan Das                   | [Link](https://www.cloudskillsboost.google/public_profiles/7c108739-0c63-4a47-9366-8fa9a8620d36) |
+| GGAISJ24-MNNITAx093 | Shreyansh Tiwari              | [Link](https://www.cloudskillsboost.google/public_profiles/f84e16f9-1a33-493d-a239-5414c2a4e3d1) |
+| GGAISJ24-MNNITAx094 | Shrish Raj Gupta              | [Link](https://www.cloudskillsboost.google/public_profiles/8d9a54be-bf81-49cc-aa56-ff9eaae988ab) |
+| GGAISJ24-MNNITAx095 | Shubham Kumar                 | [Link](https://www.cloudskillsboost.google/public_profiles/b5086709-2cbd-466d-8784-a6211ce0282b) |
+| GGAISJ24-MNNITAx096 | Sonali Kharwar                | [Link](https://www.cloudskillsboost.google/public_profiles/d063d3f7-c2d4-4199-891d-64bd7538a5e2) |
+| GGAISJ24-MNNITAx097 | Soumya Das                    | [Link](https://www.cloudskillsboost.google/public_profiles/7e23e5c3-ce39-4ce5-9717-cfde0e10bbbb) |
+| GGAISJ24-MNNITAx098 | Sourajit Mandal               | [Link](https://www.cloudskillsboost.google/public_profiles/15e48cfc-7ca6-4e08-8372-5e0e105c4bd8) |
+| GGAISJ24-MNNITAx099 | Sushmit Patel                 | [Link](https://www.cloudskillsboost.google/public_profiles/e9cba99b-a6b6-4e8e-9941-1d64eacb58cb) |
+| GGAISJ24-MNNITAx100 | Vaibhav Sharma                | [Link](https://www.cloudskillsboost.google/public_profiles/0bc437fb-4e44-4c4a-b49b-1102d2f047d9) |
+| GGAISJ24-MNNITAx101 | Vatsal Kumar                  | [Link](https://www.cloudskillsboost.google/public_profiles/49523273-b33d-4465-9868-95345e85a0b9) |
+| GGAISJ24-MNNITAx102 | Vikas                         | [Link](https://www.cloudskillsboost.google/public_profiles/85f48516-691c-402c-9d77-3dc03c9a73f3) |
+| GGAISJ24-MNNITAx103 | Vinay Joshi                   | [Link](https://www.cloudskillsboost.google/public_profiles/19222efe-71f9-4836-a17b-5716ac25aa5d) |
+| GGAISJ24-MNNITAx104 | Vishal Kumar Sah              | [Link](https://www.cloudskillsboost.google/public_profiles/d1542845-6e71-47fa-ae35-8e95e7ebf50b) |
+| GGAISJ24-MNNITAx105 | Yash Raj                      | [Link](https://www.cloudskillsboost.google/public_profiles/4da03b0b-bd81-44dd-a426-2603b568fb62) |
+| GGAISJ24-MNNITAx106 | Yogesh Jaiswal                | [Link](https://www.cloudskillsboost.google/public_profiles/c32c0df5-e933-4766-9536-6cf8a91078f4) |
 
 
 
